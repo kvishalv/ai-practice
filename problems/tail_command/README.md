@@ -18,4 +18,4 @@ Implement the Unix `tail` command.
 ## Design hint
 
 Start simple, then optimize.
-This mirrors how Shopify often introduces follow-ups.
+This mirrors how often introduces follow-ups.

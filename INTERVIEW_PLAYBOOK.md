@@ -1,4 +1,4 @@
-# Shopify AI Pair Programming Playbook
+# AI Pair Programming Playbook
 
 ## Opening Script
 

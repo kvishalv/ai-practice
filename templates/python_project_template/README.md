@@ -1,6 +1,6 @@
 # Python Project Template
 
-Use this template to simulate a Shopify greenfield repo.
+Use this template to simulate a greenfield repo.
 
 ## Structure
 

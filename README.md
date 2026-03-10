@@ -1,6 +1,6 @@
-# Shopify AI Practice Repo
+# AI Practice Repo
 
-This repo is for practicing Shopify-style AI pair-programming interviews.
+This repo is for practicing AI pair-programming interviews.
 
 ## Goals
 
@@ -24,7 +24,7 @@ This repo is for practicing Shopify-style AI pair-programming interviews.
 9. Run tests after each increment
 10. Add one follow-up requirement
 
-## Common Shopify-style problems
+## Common problems
 
 - LRU Cache
 - Robot Grid Navigation
